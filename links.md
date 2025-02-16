@@ -10,4 +10,4 @@
 
 [Apple stolen device protection](https://www.wired.com/story/how-to-use-stolen-device-protection-on-apple-iphone/)
 
-[labuitslag.nl voor bloedonderzoek](labuitslag.nl)
+[labuitslag.nl voor bloedonderzoek](https://labuitslag.nl)
