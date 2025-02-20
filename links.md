@@ -11,3 +11,7 @@
 [Apple stolen device protection](https://www.wired.com/story/how-to-use-stolen-device-protection-on-apple-iphone/)
 
 [labuitslag.nl voor bloedonderzoek](https://labuitslag.nl)
+
+[lighthouse Reports](https://www.lighthousereports.com/investigations/)
+
+[Have I been pwned](https://haveibeenpwned.com/)
