@@ -18,5 +18,7 @@ Steps after downloading the ebooks:
 
 Bonus: [this article](https://www.tomsguide.com/tablets/e-readers/no-kindle-no-problem-5-places-to-buy-drm-free-e-books) on Tom's Guide has several links to sources of DRM-free ebooks (`.epub`). [Howto-geek](https://www.howtogeek.com/these-are-the-best-sites-for-drm-free-ebooks-and-comics/) has another one. And let's not forget [Project Gutenberg](https://www.gutenberg.org/).
 
+Article on ereader apps for iPhone / iPad: https://www.igeeksblog.com/best-ebook-reader-ipad-iphone-apps/ 
+
 
    
