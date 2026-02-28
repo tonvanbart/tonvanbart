@@ -15,3 +15,5 @@
 [lighthouse Reports](https://www.lighthousereports.com/investigations/)
 
 [Have I been pwned](https://haveibeenpwned.com/)
+
+[Guide to using Ollama](https://dev.to/ajitkumar/the-complete-guide-to-ollama-run-large-language-models-locally-2mge)
